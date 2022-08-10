@@ -28,7 +28,7 @@ After the volcano errupted for the last time, it became extinct. Fast-forward to
 ## Video
 
 To play the video [download VLC](https://get.videolan.org/vlc/3.0.17.4/win32/vlc-3.0.17.4-win32.zip), and everything in the videos directory.
-
+Or just click [here](https://drive.google.com/file/d/1XB0wHOdsQLrUdae7KgNTUQLciGI6JAdX/view?usp=sharing).
 # Sources and credits
 
 The church of ***San Juan Parangaricutiro*** (https://www.visitmexico.com/en/blog/why-should-you-visit-angahuan-and-the-paricutin-volcano)
